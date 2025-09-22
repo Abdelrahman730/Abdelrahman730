@@ -5,9 +5,9 @@
 I'm a passionate **Computer Science Graduate** specializing in **Computer Vision**, **Machine Learning**, and **Full-Stack Development**. With a strong background in building real-world applications that make a difference, I'm particularly dedicated to improving accessibility technology and creating innovative solutions.
 
 - 🔭 I'm currently working on **Computer Vision and Deep Learning projects**
-- 🌱 I'm currently exploring **Advanced Deep Learning architectures and Mobile AI optimization**
+- 🌱 I'm currently learning **DevOps tools and practices** including Docker, Kubernetes, Jenkins, and CI/CD pipelines
 - 👯 I'm looking to collaborate on **Accessibility technology and Computer Vision applications**
-- 💬 Ask me about **Computer Vision, Deep Learning, Mobile Development, and Full-Stack Web Development**
+- 💬 Ask me about **Computer Vision, Deep Learning, Mobile Development, Full-Stack Web Development, and DevOps**
 - 📫 How to reach me: **abd.ahmed.hass@gmail.com**
 - 🎓 **Bachelor's in IT & Computer Science** from Nile University (GPA: 3.66/4.0)
 - ⚡ Fun fact: **I built an AI-powered mobile app that helps visually impaired individuals navigate the world!**
@@ -36,9 +36,16 @@ I'm a passionate **Computer Science Graduate** specializing in **Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![ImGUI](https://img.shields.io/badge/ImGUI-000000?style=for-the-badge&logo=dear-imgui&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -63,7 +70,7 @@ I'm a passionate **Computer Science Graduate** specializing in **Computer Vision
 
 ## 🔥 Featured Projects
 
-### [ASSIST ME - Mobile App for Visually Impaired](https://github.com/Abdelrahman730/assist-me)
+### [ASSIST ME - Mobile App for Visually Impaired](https://github.com/Abdelrahman730/ASSIST-ME)
 **Tech Stack:** Python, Android, TensorFlow Lite, OpenCV, YOLOv8, Google ML Kit  
 **🎯 Impact:** 95% text recognition accuracy, 96% road sign detection precision  
 A life-changing mobile application featuring reading and navigation modules. Implements OCR, object detection, face recognition, and ToF sensor-based distance estimation to help visually impaired individuals navigate independently.
@@ -73,15 +80,20 @@ A life-changing mobile application featuring reading and navigation modules. Imp
 **🔍 Features:** Document boundary detection, perspective correction, image enhancement  
 An intelligent document scanning application that automatically detects document boundaries and applies advanced image processing techniques for optimal scan quality.
 
-### [Regex to Finite Automaton Converter](https://github.com/Abdelrahman730/regex-automaton)
+### [Regex to Finite Automaton Converter](https://github.com/Abdelrahman730/regex-to-finite-automaton)
 **Tech Stack:** C++, ImGUI, Algorithm Design  
 **⚙️ Highlights:** Interactive visualizations, real-time conversion  
 A sophisticated tool that converts regular expressions to finite automata with beautiful interactive visualizations, demonstrating complex computer science concepts.
 
-### [Restaurant Management System](https://github.com/Abdelrahman730/restaurant-management)
+### [Restaurant Management System](https://github.com/Abdelrahman730/restaurant-management-system)
 **Tech Stack:** React.js, Node.js, MySQL  
 **📈 Features:** Order management, inventory tracking, analytical dashboards  
 A comprehensive full-stack web application for restaurant operations with real-time analytics and intuitive user interface.
+
+### [Automated University Management System](https://github.com/Abdelrahman730/university-management-system)
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+**🏫 Features:** Role-based access, student portal, faculty management, admin dashboard  
+A full-featured academic portal designed for students, faculty, and administrators with comprehensive role-based access control.
 
 ## 📈 Activity Graph
 
@@ -107,26 +119,26 @@ A comprehensive full-stack web application for restaurant operations with real-t
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abd.ahmed.hass@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201145771230)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman730)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman730)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ahmed-b9591a241/)
 
 </div>
 
-## 💭 Random Dev Quote
+## 💭 Professional Philosophy
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*"The best way to predict the future is to create it."* - Building technology that makes a difference, one commit at a time.
 
 </div>
 
 ## 🎯 Current Focus Areas
 
+- **🐳 DevOps & Infrastructure**: Mastering Docker, Kubernetes, Jenkins, and CI/CD pipeline automation
+- **☁️ Cloud Platforms**: Expanding expertise in AWS services and cloud-native applications
 - **🤖 Advanced Computer Vision**: Working on cutting-edge object detection and recognition systems
 - **📱 Mobile AI Optimization**: Deploying efficient deep learning models on mobile devices
 - **♿ Accessibility Technology**: Creating inclusive solutions for people with disabilities
-- **🧠 Deep Learning Research**: Exploring new architectures and optimization techniques
 
 ---
 
